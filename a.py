@@ -4,3 +4,5 @@ print " hahahahaha fui a primeira"
 
 print 'Sofia linda'
 
+print " hahahahaha fui a primeira"
+print " hahaha eu de novoo"
